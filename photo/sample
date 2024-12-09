@@ -1,0 +1,15 @@
+{
+"name":"Maruti Baleno Delta 1.2",
+ "year":2016,
+ "selling_price":1000000,
+ "km_driven":45000,
+ "fuel":"Petrol",
+ "seller_type":"Individual",
+ "transmission":"Manual",
+ "owner":"First Owner",
+ "mileage":"21.4 kmpl",
+ "engine":"1197 CC",
+ "max_power":"83.1 bhp",
+ "torque":"115Nm@ 4000rpm",
+ "seats":5.0
+}
